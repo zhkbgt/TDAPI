@@ -30,7 +30,7 @@ TODO: Add long description of the pod here. long
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'TDAPI/Classes/**/*'
+  #s.source_files = 'TDAPI/Classes/**/*'
   
   # s.resource_bundles = {
   #   'TDAPI' => ['TDAPI/Assets/*.png']
