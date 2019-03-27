@@ -1,0 +1,6 @@
+framework module TCAPI {
+  umbrella header "TCAPI.h"
+
+  export *
+  module * { export * }
+}
